@@ -10,6 +10,14 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
 <h2 align="left">Programo utilizando las siguientes tecnologías:</h2>
 
 ###
@@ -55,6 +63,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
