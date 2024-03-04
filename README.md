@@ -10,8 +10,8 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif" loop autoplay />
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif"  />
 </div>
 
 ###
@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif" loop autoplay />
+  <img height="200" src="https://media1.tenor.com/m/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif"  />
 </div>
 
 ###
@@ -86,7 +86,7 @@
   <a href="https://www.linkedin.com/in/matias-salisky-b14587274/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:SaliskyMatias@gmail.com" target="_blank">
+  <a href="SaliskyMatias@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://soyhenry.slack.com/team/U0568BESLU9" target="_blank">
