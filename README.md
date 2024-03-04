@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif" loop autoplay />
 </div>
 
 ###
@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif" loop autoplay />
 </div>
 
 ###
