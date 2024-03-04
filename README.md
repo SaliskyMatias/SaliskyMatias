@@ -10,6 +10,14 @@
 
 ###
 
+<p align="left"> 
+  - He trabajado en un proyecto individual llamado <a href="https://github.com/SaliskyMatias/PI-Videogames" target="_blank"> PI-Videogames </a>
+    <br><br>
+  - He trabajado en un proyecto grupal llamado <a href="https://cv-world-front-gamma.vercel.app/" target="_blank"> Cv-World </a>
+</p>
+
+###
+
 <h2 align="center">Lenguajes y herramientas:</h2>
 
 ###
