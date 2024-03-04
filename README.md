@@ -10,11 +10,13 @@
 
 ###
 
-<p align="left"> 
-  - 👩‍🏭 He trabajado en un proyecto individual llamado <a href="https://github.com/SaliskyMatias/PI-Videogames" target="_blank"> PI-Videogames </a>
-    <br><br>
-  - 👯 He trabajado en un proyecto grupal llamado <a href="https://cv-world-front-gamma.vercel.app/" target="_blank"> Cv-World </a>
-</p>
+<div align="left">
+  <img height="200" src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif"  />
+</div>
+
+###
+
+<p align="center">- He trabajado en un proyecto individual llamado PI-Videogames<br><br>- He trabajado en un proyecto grupal llamado Cv-World</p>
 
 ###
 
@@ -71,6 +73,12 @@
 <br clear="both">
 
 <h2 align="center">¡Contáctame! 📬</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif"  />
+</div>
 
 ###
 
