@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">Redes de contacto:</h2>
+<h2 align="left">¡Contáctame! 📬</h2>
 
 ###
 
