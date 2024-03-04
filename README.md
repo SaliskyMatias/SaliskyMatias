@@ -10,8 +10,6 @@
 
 ###
 
-<br>
-
 <h2 align="left">Programo utilizando las siguientes tecnologías:</h2>
 
 ###
