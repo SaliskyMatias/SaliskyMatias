@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Soy un apasionado desarrollador Full-Stack orientado al desarrollo Back-End</h3>
+<h2 align="left">Soy un apasionado desarrollador Full-Stack orientado al desarrollo Back-End</h2>
 
 ###
 
@@ -10,11 +10,13 @@
 
 ###
 
-<h2 align="left">Lenguajes y herramientas:</h2>
+<h2 align="center">Lenguajes y herramientas:</h2>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -58,11 +60,13 @@
 
 ###
 
-<h2 align="left">¡Contáctame! 📬</h2>
+<br clear="both">
+
+<h2 align="center">¡Contáctame! 📬</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/matias-salisky-b14587274/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -73,3 +77,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
 </div>
+
+###
