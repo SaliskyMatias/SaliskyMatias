@@ -10,12 +10,12 @@
 
 ###
 
-<hr/>
-
+<br>
+<br>
 ###
 
-<p align="left"></p>
-
+<br>
+<br>
 ###
 
 <h2 align="left">Programo utilizando las siguientes tecnologías:</h2>
@@ -66,11 +66,13 @@
 
 ###
 
-<p align="left"></p>
+<br>
+<br>
 
 ###
 
-<p align="left"></p>
+<br>
+<br>
 
 ###
 
@@ -82,7 +84,7 @@
   <a href="https://www.linkedin.com/in/matias-salisky-b14587274/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="SaliskyMatias@gmail.com" target="_blank">
+  <a href="mailto:SaliskyMatias@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://soyhenry.slack.com/team/U0568BESLU9" target="_blank">
