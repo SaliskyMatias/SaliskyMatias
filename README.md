@@ -11,7 +11,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif"  />
+  <video height="200" autoplay loop>
+    <source src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ###
@@ -77,7 +80,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif"  />
+  <video height="200" autoplay loop>
+    <source src="https://media1.tenor.com/m/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ###
