@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/6cYTV2P3oDYAAAAd/working-hahacc.gif" autoplay loop />
-</div>
-
-###
-
 <p align="left"> 
   - 👩‍🏭 He trabajado en un proyecto individual llamado <a href="https://github.com/SaliskyMatias/PI-Videogames" target="_blank"> PI-Videogames </a>
     <br><br>
