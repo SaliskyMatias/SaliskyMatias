@@ -95,3 +95,15 @@
 </div>
 
 ###
+
+<script>
+  document.getElementById('gif1').addEventListener('load', function() {
+    this.setAttribute('autoplay', true);
+    this.setAttribute('loop', true);
+  });
+
+  document.getElementById('gif2').addEventListener('load', function() {
+    this.setAttribute('autoplay', true);
+    this.setAttribute('loop', true);
+  });
+</script>
