@@ -16,7 +16,11 @@
 
 ###
 
-<p align="center">- He trabajado en un proyecto individual llamado PI-Videogames<br><br>- He trabajado en un proyecto grupal llamado Cv-World</p>
+<p align="left"> 
+  - 👩‍🏭 He trabajado en un proyecto individual llamado <a href="https://github.com/SaliskyMatias/PI-Videogames" target="_blank"> PI-Videogames </a>
+    <br><br>
+  - 👯 He trabajado en un proyecto grupal llamado <a href="https://cv-world-front-gamma.vercel.app/" target="_blank"> Cv-World </a>
+</p>
 
 ###
 
@@ -86,7 +90,7 @@
   <a href="https://www.linkedin.com/in/matias-salisky-b14587274/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="SaliskyMatias@gmail.com" target="_blank">
+  <a mailto:href="SaliskyMatias@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://soyhenry.slack.com/team/U0568BESLU9" target="_blank">
@@ -95,15 +99,3 @@
 </div>
 
 ###
-
-<script>
-  document.getElementById('gif1').addEventListener('load', function() {
-    this.setAttribute('autoplay', true);
-    this.setAttribute('loop', true);
-  });
-
-  document.getElementById('gif2').addEventListener('load', function() {
-    this.setAttribute('autoplay', true);
-    this.setAttribute('loop', true);
-  });
-</script>
