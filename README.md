@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Soy un apasionado desarrollador Full-Stack orientado al desarrollo Back-End</h2>
+<h3 align="left">Soy un apasionado desarrollador Full-Stack orientado al desarrollo Back-End</h3>
 
 ###
 
