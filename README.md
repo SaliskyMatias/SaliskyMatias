@@ -11,8 +11,6 @@
 ###
 
 <br>
-<br>
-###
 
 <h2 align="left">Programo utilizando las siguientes tecnologías:</h2>
 
@@ -62,9 +60,6 @@
 
 ###
 <br>
-<br>
-
-###
 
 <h2 align="left">Redes de contacto:</h2>
 
