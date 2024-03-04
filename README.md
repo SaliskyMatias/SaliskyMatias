@@ -57,7 +57,6 @@
 </div>
 
 ###
-<br>
 
 <h2 align="left">Redes de contacto:</h2>
 
