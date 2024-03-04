@@ -14,10 +14,6 @@
 <br>
 ###
 
-<br>
-<br>
-###
-
 <h2 align="left">Programo utilizando las siguientes tecnologías:</h2>
 
 ###
@@ -65,12 +61,6 @@
 </div>
 
 ###
-
-<br>
-<br>
-
-###
-
 <br>
 <br>
 
