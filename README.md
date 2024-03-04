@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Soy un apasionado desarrollador Full-Stack orientado al desarrollo Back-End</p>
+<h2 align="left">Soy un apasionado desarrollador Full-Stack orientado al desarrollo Back-End</h2>
 
 ###
 
-<h2 align="left">A mediados de 2022, decidí aventurarme en el mundo del desarrollo web, aprovechando mis conocimientos previos por haber cursado la carrera de ciencias de la computación y embarcándome en un estudio autónomo de las tecnologías más relevantes en este campo.<br><br>En el transcurso de 2023, participé en un bootcamp intensivo impartido por SoyHenry, donde consolidé mis habilidades y adquirí experiencia práctica en el desarrollo tanto del Front-end como del Back-end. Durante el bootcamp, tuve la oportunidad de trabajar en proyectos desafiantes que implicaban el consumo de APIs y la gestión de bases de datos.<br><br>Mis habilidades incluyen el dominio de tecnologías como JavaScript, Node.js, Express, PostgreSQL, MongoDB, Sequelize, React, Redux, CSS y HTML.<br><br>Uno de mis objetivos es seguir especializándome en Back-End que es lo que me apasiona.<br><br>Me considero una persona responsable, colaborativa y disciplinada. Con capacidad para el trabajo en equipo y siempre con la voluntad de escuchar y ayudar al otro.</h2>
+<p align="left">A mediados de 2022, decidí aventurarme en el mundo del desarrollo web, aprovechando mis conocimientos previos por haber cursado la carrera de ciencias de la computación y embarcándome en un estudio autónomo de las tecnologías más relevantes en este campo.<br><br>En el transcurso de 2023, participé en un bootcamp intensivo impartido por SoyHenry, donde consolidé mis habilidades y adquirí experiencia práctica en el desarrollo tanto del Front-end como del Back-end. Durante el bootcamp, tuve la oportunidad de trabajar en proyectos desafiantes que implicaban el consumo de APIs y la gestión de bases de datos.<br><br>Mis habilidades incluyen el dominio de tecnologías como JavaScript, Node.js, Express, PostgreSQL, MongoDB, Sequelize, React, Redux, CSS y HTML.<br><br>Uno de mis objetivos es seguir especializándome en Back-End que es lo que me apasiona.<br><br>Me considero una persona responsable, colaborativa y disciplinada. Con capacidad para el trabajo en equipo y siempre con la voluntad de escuchar y ayudar al otro.</p>
 
 ###
 
