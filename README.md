@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Programo utilizando las siguientes tecnologías:</h2>
+<h2 align="left">Utilizó las siguientes tecnologías:</h2>
 
 ###
 
